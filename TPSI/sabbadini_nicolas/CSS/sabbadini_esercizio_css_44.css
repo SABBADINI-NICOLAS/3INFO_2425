@@ -1,0 +1,46 @@
+.contenitore {
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.i{
+    border-radius: 20%;
+    background-color: steelblue;
+    color: white;
+    margin: 30px;
+    padding: none;
+    text-align: center;
+    
+}
+
+.i1{
+    border: 2px solid;
+    border-radius: 20%;
+    background-color: steelblue;
+    color: white;
+    margin: 30px;
+    padding: none;
+    text-align: center;
+    
+}
+
+.i2{
+    border-radius: 20%;
+    background-color: steelblue;
+    color: white;
+    margin: 30px;
+    padding: none;
+    text-align: center;
+    
+}
+
+.i3{
+    border-radius: 20%;
+    background-color: steelblue;
+    color: white;
+    margin: 30px;
+    padding: none;
+    text-align: center;
+}
